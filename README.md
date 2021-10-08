@@ -6,7 +6,7 @@ into embedded data modems, wire/wireless links.
 Big industries use vendor-specific, closed-source devices difficult  
 to even operate without using whole vendor ecosystem.  
 This device solves that problem, making data tunneling over serial link  
-(and then wire or radio transmission) possible.
+(and then wire or radio transmission) possible, even by end user.
 
 ## What is that?  
 This software makes use of:
