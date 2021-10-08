@@ -11,7 +11,7 @@ This device solves that problem, making data tunneling over serial link
 ## What is that?  
 This software makes use of:
 * TUN/TAP device driver
-* Threads  
+* Threads    
 It consist of:
 * Decoding and encoding of network packet
 * Custom but non-proprietary protocol  
