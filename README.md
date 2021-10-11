@@ -22,7 +22,7 @@ for serial line transmission
 
 ## The protocol  
 
-90 | LEN2 LEN1 | NUM2 NUM1 | DATAGRAM ... DATAGRAM_END | 90        (numbers in DEC)  
+90 | LEN2 LEN1 | NUM2 NUM1 | DATAGRAM ... DATAGRAM_END | 91       (numbers in DEC)  
   
 * every entry is one byte(excluding "|", and "()" signs).  
 * symbol 90 is reserved and cannot occur in any part of packet
