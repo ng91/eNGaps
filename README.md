@@ -28,3 +28,4 @@ for serial line transmission
 * symbol 90 is reserved and cannot occur in any part of packet
 * if 90 occurs, the SPECIAL_CHARACTER(89) and then HIDDEN_PREAMB(02) is introduced instead  
 * if 89 occurs, the SPECIAL_CHARACTER(89) and then HIDDEN89(01) is introduced instead  
+* if 91 occurs, the SPECIAL_CHARACTER(89) and then HIDDEN_POSTAMB(03) is introduced instead  
